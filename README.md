@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 GitHub Stats (de @FranciscoCCR)
+## 📊 GitHub Stats 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoCCR&theme=dark)](https://github.com/FranciscoCCR)
 
