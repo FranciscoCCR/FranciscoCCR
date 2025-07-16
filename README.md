@@ -41,12 +41,3 @@
 
 
 
-
-```json
-{
-  "Lenguajes": ["Python", "Java", "JavaScript", "C#", "C++"],
-  "Frontend": ["HTML", "CSS", "Vue.js", "React"],
-  "Backend": ["Node.js", "PHP", "Express", "MySQL"],
-  "Herramientas": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
-}
-
