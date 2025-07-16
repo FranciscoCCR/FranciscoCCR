@@ -27,6 +27,9 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoCCR)](https://github.com/FranciscoCCR)
 
+## 🛠️ Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCCR&layout=compact)
 
 ---
 
