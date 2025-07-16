@@ -1,3 +1,4 @@
+
 # 👋 ¡Hola! Soy Francisco Campos Sandi
 
 🎓 Soy estudiante de **Ingeniería Informática**, con interés en el desarrollo de software, automatización e inteligencia artificial aplicada a la educación.
@@ -38,4 +39,6 @@
   "Backend": ["Node.js", "PHP", "Express", "MySQL"],
   "Herramientas": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
 }
+
+
 
