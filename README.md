@@ -1,4 +1,3 @@
-
 # 👋 ¡Hola! Soy Francisco Campos Sandi
 
 🎓 Soy estudiante de **Ingeniería Informática**, con interés en el desarrollo de software, automatización e inteligencia artificial aplicada a la educación.
@@ -31,6 +30,15 @@
 📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)
 
 ---
+
+```json
+{
+  "Lenguajes": ["Python", "Java", "JavaScript", "C#", "C++"],
+  "Frontend": ["HTML", "CSS", "Vue.js", "React"],
+  "Backend": ["Node.js", "PHP", "Express", "MySQL"],
+  "Herramientas": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
+}
+```
 
 ```json
 {
