@@ -5,7 +5,7 @@
 🧠 Fundador de **[Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)**, un proyecto educativo que impulsa el uso de herramientas de IA en el aula.
 
 ---
-
+  
 ## 💻 Lenguajes y Tecnologías
 
 - **Lenguajes de Programación:**  
@@ -36,5 +36,6 @@
   "Backend": ["Node.js", "PHP", "Express", "MySQL"],
   "Herramientas": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
 }
+
 
 
