@@ -40,5 +40,3 @@
   "Herramientas": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
 }
 
-
-
