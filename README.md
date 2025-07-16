@@ -21,7 +21,7 @@
  
 ## 📊 GitHub Stats 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoCCR&theme=dark)](https://github.com/FranciscoCCR)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoCCR&theme=merko)](https://git.io/streak-stats)
 
 ## 📊 Estadísticas de GitHub
 
