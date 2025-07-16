@@ -5,7 +5,7 @@
 🧠 Fundador de **[Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)**, un proyecto educativo que impulsa el uso de herramientas de IA en el aula.
 
 ---
-  
+
 ## 💻 Lenguajes y Tecnologías
 
 - **Lenguajes de Programación:**  
@@ -18,6 +18,8 @@
   Git · GitHub · VS Code · Postman · Figma
 
 ---
+
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoCCR&theme=dark)](https://git.io/streak-stats)
 
@@ -36,6 +38,4 @@
   "Backend": ["Node.js", "PHP", "Express", "MySQL"],
   "Herramientas": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
 }
-
-
 
