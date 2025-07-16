@@ -19,9 +19,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (de @FranciscoCCR)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoCCR&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoCCR&theme=dark)](https://github.com/FranciscoCCR)
 
 ---
 
@@ -38,6 +38,5 @@
   "Backend": ["Node.js", "PHP", "Express", "MySQL"],
   "Herramientas": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
 }
-
 
 
