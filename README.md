@@ -23,7 +23,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoCCR&theme=dark)](https://github.com/FranciscoCCR)
 
-[![FranciscoCCR's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FranciscoCCR)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Estadísticas de GitHub
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoCCR)](https://github.com/FranciscoCCR)
+
 
 ---
 
